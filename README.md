@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pandas Homework - Pandas, Pandas, Pandas
 
 ## Background
@@ -197,3 +198,6 @@ As final considerations:
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+=======
+# HeroesOfPymoli
+>>>>>>> cabf81dc6216af3b64eaca7327ed0d17b97ef88b
